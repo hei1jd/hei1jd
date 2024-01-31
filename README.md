@@ -1,4 +1,3 @@
-
 # Initialize Pygame
 pygame.init()
  
